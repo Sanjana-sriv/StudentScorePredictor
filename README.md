@@ -2,7 +2,7 @@
 
 This project implements a simple linear regression model to **predict a student's final grade** based on key academic factors. The model uses **hours studied**, **previous scores**, and **attendance** as input features to estimate the **final percentage/grade**.
 
-## 📊 Dataset
+## 📁 Dataset
 
 The dataset (`students.csv`) includes the following features:
 
